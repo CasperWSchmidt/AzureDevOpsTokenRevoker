@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDevOpsTokenRevoker", "AzureDevOpsTokenRevoker\AzureDevOpsTokenRevoker.csproj", "{7CE6EA4A-F608-4AA0-A2D0-D0B6621B934C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CE6EA4A-F608-4AA0-A2D0-D0B6621B934C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE6EA4A-F608-4AA0-A2D0-D0B6621B934C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE6EA4A-F608-4AA0-A2D0-D0B6621B934C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE6EA4A-F608-4AA0-A2D0-D0B6621B934C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A066E4B-3D71-4689-8CD2-DF067294E071}
+	EndGlobalSection
+EndGlobal
